@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1638263621 source:c:\users\user\desktop\darijo_prerad_1103_20\main.c
+	"List.c"
+	"List.h"
+
+1638263621 c:\users\user\desktop\darijo_prerad_1103_20\list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"List.h"
+
+1638122066 c:\users\user\desktop\darijo_prerad_1103_20\list.h
+
