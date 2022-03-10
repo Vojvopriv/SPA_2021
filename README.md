@@ -1,2 +1,3 @@
 # SPA_2021
-Neki od zadataka uradjenih na predmetu Strukture podataka i algoritmi, 2021. godine.
+
+Неки од задатака урађених на предмету Структуре података и алгоритми, 2021. године.
